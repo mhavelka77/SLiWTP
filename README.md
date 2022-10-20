@@ -1,4 +1,4 @@
-
+<a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -73,12 +73,13 @@ Even though IR exists, it is actually more similar to my protocol than the one W
 
 ## Example of transmission
 
-<video width="100%" controls>
-  <source src="assets/vidSerial.mp4" type="video/mp4">
-</video>
-<video width="100%" controls>
-  <source src="assets/vidLed.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/53301452/196951956-d5a2a981-9339-4d38-b653-5aa4324b1b6f.mp4
+
+
+
+https://user-images.githubusercontent.com/53301452/196951984-72955381-99b1-4fc5-a0c7-4900a81a21a8.mp4
 
 
 
