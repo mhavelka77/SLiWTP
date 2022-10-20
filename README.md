@@ -51,6 +51,12 @@ The light source used in this example is classic blue LED diode, so the transmis
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+### Schematic
+
+![schematic](https://user-images.githubusercontent.com/53301452/197036157-dde4853b-8aaf-405d-9c65-f5f004054414.png)
+
+
+
 ### Protocol
 
 On the board startup, there is a simple calibration process where the led blinks and the board measures the difference in light intensity between the HIGH and LOW state. The threshold for logical 1 is then defined as the average of those two values.
