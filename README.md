@@ -31,7 +31,7 @@ The light source used in this example is classic blue LED diode, so the transmis
 
 <br />
 
-<img src="assets/top.jpg" alt="Logo" width="100%">
+<img src="assets/top.JPG" alt="Logo" width="100%">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -79,6 +79,7 @@ Even though IR exists, it is actually more similar to my protocol than the one W
 <video width="100%" controls>
   <source src="assets/vidLed.mp4" type="video/mp4">
 </video>
+
 
 
 <!-- LICENSE -->
